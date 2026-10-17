@@ -1,0 +1,10 @@
+*.o
+*.a
+*.db
+*.db.wal
+*.db.ckpt
+butterdb
+bench
+test_basic
+test_wal
+test_concurrent
